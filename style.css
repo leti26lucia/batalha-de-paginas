@@ -2,20 +2,3 @@ body {
     background-color: #fcf2c5;
 }
 
-header {
-    background-color: #e28e4b ;
-    padding: 25px 30px 12px;
-    text-align: center;
-     border-bottom: 4px solid #5c3602;
-     box-shadow: 2px 2px 5px #5c3602;
-}
-
-header h1 {
-    font-family: "Cormorant Garamond", serif;
-    font-size: 50px;
-
-}
-
-header p {
-    font-size: 25px
-}

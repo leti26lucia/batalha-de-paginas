@@ -2,8 +2,16 @@ body {
     background-color: #F3E4CE;
 }
 
+.card-cantores {
+    text-align: left;
+    margin: 10px 5px 10px 5px;
+    
+}
 .cantores {
     background-color: #FFF8ED;
     border: 2px solid #4B2922;
     border-radius: 8px;
+    padding: 20px;
+    
+    margin-bottom: 10px;
 }

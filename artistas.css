@@ -42,5 +42,7 @@
     display: block;
 }
 
-.centraliza
+.central{
+    align-items: center;
+}
 

@@ -14,28 +14,3 @@
 
     text-align: left;
 }
-
-.fotos {
-    width: 230px;
-    height: 160px;
-
-    margin-right: 20px;
-    margin-bottom: 15px;
-    margin-top: 15px;
-
-    object-fit: contain;
-
-
-}
-
-.fotos img {
-    border-radius: 10px;
-}
-
-.cantores h2 {
-    margin-top: 10px;
-}
-
-.cantores p {
-    margin-top: 10px;
-}

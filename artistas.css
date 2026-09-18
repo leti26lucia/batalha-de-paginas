@@ -16,6 +16,9 @@ body {
     padding: 20px;
     
     margin-bottom: 10px;
+
+    display: flex;
+    align-items: flex-start;
 }
 
 .fotos {
@@ -23,18 +26,19 @@ body {
     width: 200px;
     height: 160px;
 
-    margin-right: 20px;
-    margin-bottom: 15px;
-    margin-top: 15px;
+    margin-right: 16px;
+    margin-bottom: 5px;
+
     border-radius: 10px;
+
+
 }
 
 .fotos img {
     width:100%;
     height: 100%;
 
-    object-fit: contain;
+    object-fit: cover;
 
     display: block;
-    margin-top: 10px;
 }

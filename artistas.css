@@ -14,3 +14,22 @@
 
     text-align: left;
 }
+
+.fotos {
+
+    float: left;
+    width: 200px;
+    height: 160px;
+
+    padding: 15px 20px 15px 5px;
+
+}
+
+.fotos img {
+    width: 100%;
+    height: 100%;
+
+    margin: 10px 5px 10px 5px;
+    object-fit: contain;
+    display:block;
+}

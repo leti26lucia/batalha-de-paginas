@@ -3,6 +3,9 @@ body {
 }
 
 .card-cantores {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
     text-align: left;
     margin: 10px 5px 10px 5px;
     padding: 6px 10px;

@@ -13,15 +13,8 @@
     text-align: left;
 
     display: flex;
-    align-items: flex-start; 
+    align-items: center; 
     gap: 20px;
-}
-
-.cantores h2 {
-    margin-top: 0px;
-
-    margin-bottom: 10px;
-    
 }
 
 .fotos {
@@ -46,4 +39,5 @@
     display:block;
 
     border-radius: 10px;
+    overflow: hidden;
 }

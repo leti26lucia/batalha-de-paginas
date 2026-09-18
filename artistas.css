@@ -28,6 +28,9 @@ body {
 
     border-radius: 10px;
 
+    display: flex;
+    align-items: flex-start
+
 
 }
 

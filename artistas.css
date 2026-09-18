@@ -16,3 +16,21 @@ body {
     
     margin-bottom: 10px;
 }
+
+.fotos {
+    float: left;
+    width: 200px;
+    height: 160px;
+
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.fotos img {
+    width:100%;
+    height: 100%;
+
+    object-fit: contain;
+
+    display: block;
+}

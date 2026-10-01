@@ -1,4 +1,12 @@
 body {
-    background-color: #fcf2c5;
+    background-color: #e9b687;
+}
+
+.banner {
+height: 280px;
+background-image: url("banner.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 }
 

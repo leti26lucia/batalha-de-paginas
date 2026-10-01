@@ -3,7 +3,7 @@ body {
 }
 
 .banner {
-height: 220px;
+height: 350px;
 background-image: url("banner.jpg");
 background-position: center;
 background-size: cover;

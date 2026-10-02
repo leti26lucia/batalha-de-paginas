@@ -2,6 +2,13 @@
     background-color: #f7feca;
  }
 
+ nav a {
+    color: #8f201c;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
 .card-cantores {
     color: #4B2922;
 }

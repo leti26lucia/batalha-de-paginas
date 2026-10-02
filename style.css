@@ -1,9 +1,10 @@
-*{
-
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
 }
 
 body {
-    margin: 0;
     background-color: #f7feca;
     color: #222;
     font-family: Arial, sans-serif;
@@ -36,9 +37,7 @@ nav a {
 
 .inicio {
 
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    padding: 70px 8%;
 
 }
 

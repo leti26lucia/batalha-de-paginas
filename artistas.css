@@ -5,7 +5,7 @@ header {
     padding: 25px 8%;
     display: flex;
     text-align: center;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background-color: #f6fdca;
     border-bottom: 1px solid #8f201c;
